@@ -1,0 +1,28 @@
+------WebKitFormBoundary4KBTSl03sYmwCDAv
+Content-Disposition: form-data; name="fileUpload1"; filename="resume.txt"
+Content-Type: text/plain
+
+Les difficultés relationnelles entre services
+
+Résumé : Guillaume Blondeau
+
+L'usine Siphon est une usine d'un groupe chimique. Le fonctionnement de celle-ci a été traditionnel jusque dans les années 80. Or, en 87 la décision a été prise de moderniser l'atelier. En effet, le groupe avait l'ambition d'être troisième mondial sur son marché alors que sa croissance était plus faible que les autres.
+
+Initialement, l'ambiance de l'entreprise était plutot bonne. Les ouvriers sont de faible qualification et leur rôle est principalement "physique". L'usine possède aussi un centre de recherche.
+
+La modernisation consiste à implanter des nouvelles machines afin d'automatiser le travail. La part de la manutention, auparavant majoritaire, est fortement réduite. Les contraintes physiques sont donc réduites mais cela apporte de nouveaux problèmes.
+
+Premièrement, les équipes sont "bouleversées" puisque un opérateur par équipe est assigné pour s'occuper des machines, obtenant aussi une augmentation. Cela, entraîne une division dans les équipes, le travail de surveillance des machines étant jugé plus intéressant et les surveillant étant mieux payés. L'automatisation a aussi engendré un changement dans l'ambiance de l'équipe : les opérateurs sont soumis au rythme des machines. Ce changement engendre aussi des tensions supplémentaires entre la maitrise et la production : celui-ci a engendré une accélération du rythme pour les opérateurs qui s'en plaignent. Ils se plaignent aussi de la disparition de réunions entre eux et la maitrise.
+
+Ensuite, il y a eu des difficultés de mises en place du nouveau système qui ont engendré des pertes pour l'entreprise, de productivité entre autres. Des dysfonctionnement aussi bien technique qu'humain ont été identifiés. Par exemple, le seuil technique des opérateurs qui est faible a posé problème. De plus, le projet n'avait jamais été construit avant. 
+
+Un des soucis principaux a été les problèmes de communication entre les services et certaines parties se plaignent de n'avoir pas pu prendre suffisament part au projet, comme la fabrication. Le bureau d'études aurait accaparé le projet. Par ailleurs, le service entretien est divisé et, en cas de problème,  les ouvriers ne savaient pas à qui s'adresser et donc perdaient un temps précieux pour réparer les pannes (parfois la production devait s'arrêter pendant toute la nuit). L'auteur trouve plusieurs explication à ces problèmes de communication comme la tradition du secret au sein de l'usine ou un changement de gestion du personnel.
+
+Des problèmes ont donc eu lieu au sein de la fabrication. Les opérateurs ont entre autres fait remonter le manque de consignes écrites ou le manque de formation, qui conduisait à de multiples arrêts de la production, et donc des tensions avec la hiérarchie. La fabrication se plaint aussi d'un problème au niveau de la remontée d'informations et de la communication avec les autres services.
+
+Enfin, l'auteur essaie donc d'interpréter tous ces dysfonctionnements. Le premier argument soulevé est la culture de l'entreprise. Mais, l'auteur s'attarde aussi le rôle du BE qui a repris le projet à son compte et n'était pas au coeur des préoccupations pratiques. Cela peut être interprété comme une volonté de prendre le pouvoir mais cela n'est pas suffisant. La fabrication n'a pas été associée au BE car celui-ci pensait qu'ils compreneraient mal le système. L'auteur soulève enfin le manque de "bien commun" car tous les acteur n'ont pas été assez intégrés.
+
+------WebKitFormBoundary4KBTSl03sYmwCDAv--
+stion du personnel.
+
+Des problèmes ont donc eu lieu au sein de la fabrication. Les opérateurs ont entre autres fait remonter le manque de consignes écrites ou le manque de formation, qui conduisait à de multiples arrêts de la production, et donc des tensions avec la hiérarchie. La fabrication se plaint aussi d'un problème au niveau de la remontée d'informations et de la communication avec les autres service
